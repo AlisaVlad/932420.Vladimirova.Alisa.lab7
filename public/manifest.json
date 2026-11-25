@@ -1,0 +1,15 @@
+{
+  "name": "Эко-активизм",
+  "short_name": "Эко-трекер",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e6f4dc",
+  "theme_color": "#294616",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
